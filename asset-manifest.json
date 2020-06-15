@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/defi-portal/static/css/main.fec45a73.chunk.css",
+    "main.js": "/defi-portal/static/js/main.513333c4.chunk.js",
+    "main.js.map": "/defi-portal/static/js/main.513333c4.chunk.js.map",
+    "runtime-main.js": "/defi-portal/static/js/runtime-main.c889c47c.js",
+    "runtime-main.js.map": "/defi-portal/static/js/runtime-main.c889c47c.js.map",
+    "static/css/2.18fb2ca0.chunk.css": "/defi-portal/static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.0730c707.chunk.js": "/defi-portal/static/js/2.0730c707.chunk.js",
+    "static/js/2.0730c707.chunk.js.map": "/defi-portal/static/js/2.0730c707.chunk.js.map",
+    "index.html": "/defi-portal/index.html",
+    "precache-manifest.5aefa6b0d6968388f2488e523907df74.js": "/defi-portal/precache-manifest.5aefa6b0d6968388f2488e523907df74.js",
+    "service-worker.js": "/defi-portal/service-worker.js",
+    "static/css/2.18fb2ca0.chunk.css.map": "/defi-portal/static/css/2.18fb2ca0.chunk.css.map",
+    "static/css/main.fec45a73.chunk.css.map": "/defi-portal/static/css/main.fec45a73.chunk.css.map",
+    "static/js/2.0730c707.chunk.js.LICENSE.txt": "/defi-portal/static/js/2.0730c707.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c889c47c.js",
+    "static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.0730c707.chunk.js",
+    "static/css/main.fec45a73.chunk.css",
+    "static/js/main.513333c4.chunk.js"
+  ]
+}
